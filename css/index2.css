@@ -1,0 +1,44 @@
+*{padding: 0;margin: 0;text-decoration: none;list-style: none;}
+[v-cloak]{
+    display: none;
+}
+#nav{
+    height: 80px;
+}
+#nav>ul{
+    background-color: #ccc;
+}
+.el-menu-demo{
+    text-align: center;
+}
+.el-header{
+    min-height: 40px;
+    line-height: 40px;
+    background-color:#224d77;
+}
+.el-header #l{
+    height: 60px;
+    line-height: 60px;
+    float: left;
+    color: white;
+}
+.el-header #r{
+    float: right;
+    height: 60px;
+    line-height: 60px;
+    color: white;
+}
+.el-header #r a{
+    color: white;
+    margin: 0 10px;
+}
+.el-main{
+    min-height: 750px;
+}
+.nav_a{
+    float: left;
+    margin: 0 15px;
+}
+#nav ul{
+   text-align: center;
+}
